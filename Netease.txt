@@ -1,6 +1,6 @@
 # 解锁网易云音乐灰色歌曲
-🎸网易云音乐1 = shadowsocks,music.desperadoj.com,30003,aes-128-gcm,desperadoj.com_free_proxy_x80j
-🎸网易云音乐2 = http,106.52.127.72,19951
-🎸网易云音乐3 = http,taron.top,100
-🎸网易云音乐4 = http,music.lolico.me,39000
-🎸网易云音乐5 = http,lolico.me,443
+🎵 解锁节点1 = shadowsocks,music.desperadoj.com,30003,aes-128-gcm,desperadoj.com_free_proxy_x80j
+🎵 解锁节点2 = http,106.52.127.72,19951
+🎵 解锁节点3 = http,taron.top,100
+🎵 解锁节点4 = http,music.lolico.me,39000
+🎵 解锁节点5 = http,lolico.me,443
