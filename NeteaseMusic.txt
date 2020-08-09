@@ -1,7 +1,7 @@
-ss=music.desperadoj.com:30001,aes-128-gcm,desperadoj.com_free_proxy_vrfn, tag=🎵 解锁节点1
+ss=music.desperadoj.com:30001,method=aes-128-gcm,password=desperadoj.com_free_proxy_vrfn, tag=🎵 解锁节点1
 http=music.griouges.cn:39000, tag=🎵 解锁节点2
 http=taron.top:200, tag=🎵 解锁节点3
-ss=music.desperadoj.com:30003,aes-128-gcm,desperadoj.com_free_proxy_vrfn, tag=🎵 解锁节点4
+ss=music.desperadoj.com:30003,method=aes-128-gcm,password=desperadoj.com_free_proxy_vrfn, tag=🎵 解锁节点4
 http=106.52.127.72:19951, tag=🎵 解锁节点5
 #http=taron.top:100, tag=🎵 解锁节点6
 http=music.lolico.me:39000, tag=🎵 解锁节点7
