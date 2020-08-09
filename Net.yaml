@@ -28,7 +28,3 @@ proxy-groups:
       - 🎵 解锁节点1
       - 🎵 解锁节点2
       - 🎵 解锁节点3
-  - name: ⚠️ 公益代理，收费请举报并反馈
-    type: select
-    proxies:
-      - DIRECT
