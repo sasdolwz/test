@@ -19,12 +19,3 @@ proxies:
     username: ""
     password: ""
     tls: false
-
-proxy-groups:
-  - name: 🎸 网易云音乐
-    type: select
-    proxies:
-      - DIRECT
-      - 🎵 解锁节点1
-      - 🎵 解锁节点2
-      - 🎵 解锁节点3
