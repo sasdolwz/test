@@ -1,21 +1,3 @@
-🎵 解锁节点10 = ss, music.desperadoj.com,30001, cipher=aes-128-gcm, password=desperadoj.com_free_proxy_vrfn
-🎵 解锁节点11 = ss, music.desperadoj.com,30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_vrfn
-🎵 解锁节点12 = ss, music.desperadoj.com,30001, cipher: aes-128-gcm, password=desperadoj.com_free_proxy_vrfn
-🎵 解锁节点13 = ss, music.desperadoj.com,30001, method: aes-128-gcm, password=desperadoj.com_free_proxy_vrfn
-🎵 解锁节点14 = shadowsocks, music.desperadoj.com,30001, cipher=aes-128-gcm, password=desperadoj.com_free_proxy_vrfn
-🎵 解锁节点15 = shadowsocks, music.desperadoj.com,30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_vrfn
-🎵 解锁节点16 = shadowsocks, music.desperadoj.com,30001, cipher: aes-128-gcm, password=desperadoj.com_free_proxy_vrfn
-🎵 解锁节点17 = shadowsocks, music.desperadoj.com,30001, method: aes-128-gcm, password=desperadoj.com_free_proxy_vrfn
-🎵 解锁节点18 = ss,music.desperadoj.com,30001,aes-128-gcm,desperadoj.com_free_proxy_vrfn
-🎵 解锁节点19 = shadowsocks,music.desperadoj.com,30001,aes-128-gcm,desperadoj.com_free_proxy_vrfn
-🎵 解锁节点20 = ss,music.desperadoj.com,30001,cipher=aes-128-gcm,desperadoj.com_free_proxy_vrfn
-🎵 解锁节点21 = ss,music.desperadoj.com,30001,method=aes-128-gcm,desperadoj.com_free_proxy_vrfn
-🎵 解锁节点22 = ss,music.desperadoj.com,30001,cipher: aes-128-gcm,desperadoj.com_free_proxy_vrfn
-🎵 解锁节点23 = ss,music.desperadoj.com,30001,method: aes-128-gcm,desperadoj.com_free_proxy_vrfn
-🎵 解锁节点24 = shadowsocks,music.desperadoj.com,30001,cipher=aes-128-gcm,desperadoj.com_free_proxy_vrfn
-🎵 解锁节点25 = shadowsocks,music.desperadoj.com,30001,method=aes-128-gcm,desperadoj.com_free_proxy_vrfn
-🎵 解锁节点26 = shadowsocks,music.desperadoj.com,30001,cipher: aes-128-gcm,desperadoj.com_free_proxy_vrfn
-🎵 解锁节点27 = shadowsocks,music.desperadoj.com,30001,method: aes-128-gcm,desperadoj.com_free_proxy_vrfn
   - name: 🎵 解锁节点1
     type: ss
     server: music.desperadoj.com
