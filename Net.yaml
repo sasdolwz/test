@@ -1,3 +1,4 @@
+proxies:
   - name: 🎵 解锁节点1
     type: ss
     server: music.desperadoj.com
