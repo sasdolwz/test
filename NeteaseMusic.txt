@@ -12,7 +12,7 @@ http=47.96.134.135:22, tag=🎵 解锁节点11
 http=95.179.198.172:19980, tag=🎵 解锁节点12
 #http=taron.top:100, tag=🎵 解锁节点13
 #http=106.52.127.72:19951, tag=🎵 解锁节点14
-http=aimer.one:2333, tag=🎵 解锁节点15
+http=aimer.one:3333, tag=🎵 解锁节点15
 #http=music.griouges.cn:39000, tag=🎵 解锁节点16
 #shadowsocks=music.desperadoj.com:30001,method=aes-128-gcm,password=desperadoj.com_free_proxy_vrfn, tag=🎵 解锁节点17
 #shadowsocks=music.desperadoj.com:30003,method=aes-128-gcm,password=desperadoj.com_free_proxy_vrfn, tag=🎵 解锁节点18
