@@ -1,4 +1,5 @@
-  - {name: 🎵 解锁节点 1, type: ss, server: music.desperadoj.com, port: 30001, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
+proxies:
+- {name: 🎵 解锁节点 1, type: ss, server: music.desperadoj.com, port: 30001, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
   - {name: 🎵 解锁节点 2, type: http, server: music.griouges.cn, port: 39000, username: "", password: "", tls: false}
   - {name: 🎵 解锁节点 3, type: http, server: taron.top, port: 200, username: "", password: "", tls: false}
   - {name: 🎵 解锁节点 4, type: ss, server: music.desperadoj.com, port: 30003, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
