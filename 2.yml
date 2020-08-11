@@ -1,0 +1,12 @@
+  - {name: 🎵 解锁节点 1, type: ss, server: music.desperadoj.com, port: 30001, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
+  - {name: 🎵 解锁节点 2, type: http, server: music.griouges.cn, port: 39000, username: "", password: "", tls: false}
+  - {name: 🎵 解锁节点 3, type: http, server: taron.top, port: 200, username: "", password: "", tls: false}
+  - {name: 🎵 解锁节点 4, type: ss, server: music.desperadoj.com, port: 30003, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
+  - {name: 🎵 解锁节点 5, type: http, server: 106.52.127.72, port: 19951, username: "", password: "", tls: false}
+  - {name: 🎵 解锁节点 7, type: http, server: music.lolico.me, port: 39000, username: "", password: "", tls: false}
+  - {name: 🎵 解锁节点 8, type: http, server: lolico.me, port: 443, username: "", password: "", tls: false}
+  - {name: 🎵 解锁节点 9, type: http, server: 207.148.98.161.ipssh.net, port: 1248, username: "", password: "", tls: false}
+  - {name: 🎵 解锁节点 10, type: http, server: 120.55.164.155, port: 19980, username: "", password: "", tls: false}
+  - {name: 🎵 解锁节点 11, type: http, server: 47.96.134.135, port: 22, username: "", password: "", tls: false}
+  - {name: 🎵 解锁节点 12, type: http, server: 95.179.198.172, port: 19980, username: "", password: "", tls: false}
+  - {name: 🎵 解锁节点 15, type: http, server: aimer.one, port: 2333, username: "", password: "", tls: false}
