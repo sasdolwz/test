@@ -1,13 +1,4 @@
-# 解锁网易云音乐灰色歌曲
-🎵 解锁节点1 = shadowsocks,music.desperadoj.com,30001,aes-128-gcm,desperadoj.com_free_proxy_vrfn
-🎵 解锁节点2 = http,music.griouges.cn,39000
-🎵 解锁节点3 = http,taron.top,200
+🎵 解锁节点1 = http,aimer.one,3333
+🎵 解锁节点2 = http,taron.top,200
+🎵 解锁节点3 = http,music.lolico.me,39000
 🎵 解锁节点4 = shadowsocks,music.desperadoj.com,30003,aes-128-gcm,desperadoj.com_free_proxy_vrfn
-🎵 解锁节点5 = http,106.52.127.72,19951
-🎵 解锁节点7 = http,music.lolico.me,39000
-🎵 解锁节点8 = http,lolico.me,443
-🎵 解锁节点9 = http,207.148.98.161.ipssh.net,1248
-🎵 解锁节点10 = http,120.55.164.155,19980
-🎵 解锁节点11 = http,47.96.134.135,22
-🎵 解锁节点12 = http,95.179.198.172,19980
-🎵 解锁节点15 = http,aimer.one,3333
