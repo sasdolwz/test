@@ -1,0 +1,5 @@
+proxies:
+  - {name: 🇨🇳 Music 1, server: aimer.one, port: 2333, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 Music 2, server: taron.top, port: 200, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 Music 3, server: music.lolico.me, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 Music 4, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
