@@ -1,4 +1,0 @@
-http=aimer.one:3333, tag=🎵 解锁节点1
-http=taron.top:200, tag=🎵 解锁节点2
-http=music.lolico.me:39000, tag=🎵 解锁节点3
-shadowsocks=music.desperadoj.com:30003,method=aes-128-gcm,password=desperadoj.com_free_proxy_vrfn, tag=🎵 解锁节点4
