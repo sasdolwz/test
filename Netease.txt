@@ -1,4 +1,0 @@
-🎵 解锁节点1 = http,aimer.one,3333
-🎵 解锁节点2 = http,taron.top,200
-🎵 解锁节点3 = http,music.lolico.me,39000
-🎵 解锁节点4 = shadowsocks,music.desperadoj.com,30003,aes-128-gcm,desperadoj.com_free_proxy_vrfn
